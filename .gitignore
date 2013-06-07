@@ -1,0 +1,7 @@
+build/*
+*.user
+intermediate/*
+*.sdf
+*.suo
+*.filters
+*sdf
